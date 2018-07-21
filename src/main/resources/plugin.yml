@@ -5,3 +5,5 @@ main: "me.tylergrissom.foodstuff.FoodstuffPlugin"
 description: "Effectively give your players food"
 authors: ["Tyler Grissom"]
 website: "https://tyler-g.net"
+
+api-version: "1.13"
