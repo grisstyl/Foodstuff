@@ -1,0 +1,7 @@
+name: "Foodstuff"
+version: "1.0.0"
+main: "me.tylergrissom.foodstuff.FoodstuffPlugin"
+
+description: "Effectively give your players food"
+authors: ["Tyler Grissom"]
+website: "https://tyler-g.net"
