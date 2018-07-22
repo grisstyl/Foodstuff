@@ -1,0 +1,25 @@
+
+
+plates:
+  meat_plate:
+    name: "&cMeat Plate"
+    material: "light_weighted_pressure_plate"
+    contents:
+      - material: "cooked_beef"
+        display_name: "&7Cooked Beef"
+      - material: "cooked_porkchop"
+        display_name: "&7Cooked Porkchop"
+  fish_plate:
+    name: "&3Fish Plate"
+    material: "heavy_weighted_pressure_plate"
+    menu: true
+    contents:
+      - material: "cooked_cod"
+        display_name: "&7Cooked Cod"
+      - material: "cooked_salmon"
+        display_name: "&7Cooked Salmon"
+  cake_plate:
+    name: "&dCake Plate"
+    material: "cake"
+    auto_feed: true
+
